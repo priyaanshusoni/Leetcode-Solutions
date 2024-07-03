@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
