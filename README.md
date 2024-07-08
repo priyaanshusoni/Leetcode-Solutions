@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
