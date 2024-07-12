@@ -28,14 +28,16 @@ public:
 
                while(temp!=NULL){
 
-               if(temp->val!=st.top()){
-               return false;
-               }
+               
 
 
-               else if(temp->val==st.top()){
+               if(temp->val==st.top()){
                        temp=temp->next;
                        st.pop();
+                 }
+
+                 else{
+                    return false;
                  }
 
                }
