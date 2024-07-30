@@ -11,36 +11,28 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-if(head==NULL || head->next==NULL){
-    return head;
-}
-       vector<int>v;
-       set<int>st;
 
-       ListNode*temp = head;
-       while(temp!=NULL){
-        st.insert(temp->val);
-        temp=temp->next;
-       }
+        if(head==NULL || head->next==NULL){
+            return head;
+        }
 
-       for(auto it: st){
-          v.push_back(it);
-       }
+        ListNode* temp = head;
 
-       sort(v.begin(),v.end());
+        while(temp!=NULL && temp->next!=NULL){
+             ListNode* nextnode = temp->next;
 
-       ListNode* newhead = new ListNode(v[0]);
-       ListNode* temp2 = newhead;
+             while(nextnode!=NULL && nextnode->val==temp->val){
+                ListNode* duplicate = nextnode;
 
-       for(int i=1;i<v.size();i++){
-        ListNode* newnode = new ListNode(v[i]);
-        newnode->next=NULL;
-        temp2->next = newnode;
-        temp2=newnode;
-       }
+                nextnode = nextnode->next;
 
+                delete duplicate;
+             }
 
-       return newhead;
-        
+             temp->next = nextnode;
+             if(nextnode) temp=nextnode;
+        }
+
+        return head;
     }
 };
