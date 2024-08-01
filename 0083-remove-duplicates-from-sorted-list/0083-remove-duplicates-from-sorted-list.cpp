@@ -12,27 +12,34 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
 
+       
+        vector<int>dups;
+
         if(head==NULL || head->next==NULL){
             return head;
         }
-
         ListNode* temp = head;
+        while(temp!=NULL&&temp->next!=NULL){
+            ListNode* nextNode = temp->next;
+            while(nextNode!=NULL && nextNode->val==temp->val){
+                // if(dups.size()==0 || dups.back()!=nextNode->val){
+                //     dups.push_back(nextNode->val);
+                // }
 
-        while(temp!=NULL && temp->next!=NULL){
-             ListNode* nextnode = temp->next;
+                ListNode*Duplicate = nextNode;
+                nextNode=nextNode->next;
+                delete Duplicate;
+                
 
-             while(nextnode!=NULL && nextnode->val==temp->val){
-                ListNode* duplicate = nextnode;
+            }
+           temp->next=nextNode;
+          if(nextNode)  temp=nextNode;
 
-                nextnode = nextnode->next;
 
-                delete duplicate;
-             }
 
-             temp->next = nextnode;
-             if(nextnode) temp=nextnode;
         }
 
         return head;
+
     }
 };
