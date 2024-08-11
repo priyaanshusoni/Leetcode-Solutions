@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
