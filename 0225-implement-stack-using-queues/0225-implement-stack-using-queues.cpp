@@ -15,14 +15,12 @@ public:
         q.push(x);
 
         for(int i=1;i<=s;i++){
-            // q.push(q.front());
-            // q.pop();
-
-
-
-            int val = q.front();
+            q.push(q.front());
             q.pop();
-            q.push(val);
+
+
+
+           
         }
 
     }
