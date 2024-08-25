@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
