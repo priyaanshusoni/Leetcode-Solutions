@@ -1,5 +1,14 @@
 class Solution {
 public:
+
+int gcd(int a , int b){
+    if(b==0){
+        return a;
+    }
+
+
+    return gcd(b,a%b);
+}
     int findGCD(vector<int>& nums) {
         int maxi = INT_MIN;
         int mini = INT_MAX;
@@ -7,17 +16,7 @@ public:
             maxi = max(nums[i], maxi);
             mini = min(nums[i],mini);
         }
- int ans =-1;
-        for(int i=1;i<=mini;i++){
-
-            if((mini%i==0) && (maxi%i==0)){
-           ans = max(ans,i);
-            }
-        }
-
-
-
-        return ans;
+          return gcd(mini,maxi);
 
 
     }
