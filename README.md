@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 ## Dynamic Programming
