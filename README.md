@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0812-rotate-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
