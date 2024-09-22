@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
