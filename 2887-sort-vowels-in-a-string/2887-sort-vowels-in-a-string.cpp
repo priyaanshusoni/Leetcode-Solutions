@@ -21,7 +21,7 @@ bool isVowel(char s){
           int index=0;
         for(int i=0;i<s.size();i++){
            if(isVowel(s[i])){
-            s[i] = vowels[index]++;
+            s[i] = vowels[index];
             index++;
            }
         }
