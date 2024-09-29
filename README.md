@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2383-add-two-integers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
