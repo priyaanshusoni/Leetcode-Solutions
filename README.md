@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
