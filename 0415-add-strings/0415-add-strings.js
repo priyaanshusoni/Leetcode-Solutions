@@ -40,18 +40,18 @@ var addStrings = function(num1, num2) {
     }
 
     while(i<s1.length){
-        let temp2=0;
+        let temp=0;
         if(carry){
-            temp2+= parseInt(s1[i]) + carry;
-            if(temp2>=10){
-                temp2 = temp2%10;
-                ans+=temp2;
+            temp+= parseInt(s1[i]) + carry;
+            if(temp>=10){
+                temp = temp%10;
+                ans+=temp;
                 carry=1;
                 i++;
             }
 
             else{
-                ans+=temp2;
+                ans+=temp;
                 i++;
                 carry=0;
             }
@@ -65,18 +65,18 @@ var addStrings = function(num1, num2) {
     }
 
     while(j<s2.length){
-       let temp3=0;
+       let temp=0;
         if(carry){
-            temp3+= parseInt(s2[j]) + carry;
-            if(temp3>=10){
-                temp3 = temp3%10;
-                ans+=temp3;
+            temp+= parseInt(s2[j]) + carry;
+            if(temp>=10){
+                temp = temp%10;
+                ans+=temp;
                 carry=1;
                 j++;
             }
 
             else{
-                  ans+=temp3;
+                  ans+=temp;
                   j++;
                   carry=0;
             }
