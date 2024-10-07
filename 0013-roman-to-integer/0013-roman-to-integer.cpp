@@ -11,8 +11,8 @@ public:
         mpp['M'] =1000;
 
       int ans=0;
-       for(int i=0;i<s.length();i++){
-        if(mpp[s[i]] < mpp[s[i+1]]){
+       for(int i=0;i<s.size();i++){
+        if(i<s.size()-1 && mpp[s[i]] < mpp[s[i+1]]){
             ans-=mpp[s[i]];
         }
 
