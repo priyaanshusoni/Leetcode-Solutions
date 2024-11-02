@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
