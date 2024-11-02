@@ -27,7 +27,7 @@ Solution.prototype.getRandom = function() {
         temp=temp.next;
     }
 
-    let getrandomNode = Math.floor((Math.random() * n) + 1);
+    let getrandomNode = Math.floor((Math.random() * n) +1 );
     console.log(getrandomNode);
      
     let temp2 = head;
