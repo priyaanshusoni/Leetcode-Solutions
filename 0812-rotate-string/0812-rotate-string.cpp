@@ -1,17 +1,17 @@
 class Solution {
 public:
 
- string rightrotate(string a , int i){
+ string rightrotate(string s , int i){
         
-          reverse(a.begin(),a.end());
+          reverse(s.begin(),s.end());
        
-          reverse(a.begin()+i,a.end());
+          reverse(s.begin()+i,s.end());
         
-          reverse(a.begin(),a.begin()+i);
+          reverse(s.begin(),s.begin()+i);
 
 
 
-          return a;
+          return s;
   
     }
 
@@ -22,14 +22,28 @@ public:
 
     bool rotateString(string s, string goal) {
 
-        if(s.length()!=goal.length()){
-            return false;
-        }
+    //     if(s.length()!=goal.length()){
+    //         return false;
+    //     }
 
        
-       string doubled = s+s;
+    //    string doubled = s+s;
 
-      return doubled.find(goal)!=-1;
+    //   return doubled.find(goal)!=-1;
+
+         int cnt =s.length();
+
+         while(cnt){
+         if(s==goal) return true;
+          reverse(s.begin()+1 , s.end());
+          reverse(s.begin(),s.end());
+         
+          cnt--;
+         }
+          
+
+
+          return false;
 
        
 
