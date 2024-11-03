@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0742-to-lower-case) |
