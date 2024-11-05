@@ -27,6 +27,7 @@ public:
 
             if(cnt2==b+1){
                 last = temp;
+                break;
             }
             temp=temp->next;
         }
