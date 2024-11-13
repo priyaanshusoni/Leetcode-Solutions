@@ -32,7 +32,9 @@ ListNode* convert2LL(vector<int>& arr){
         }
 
         ListNode *temp = head->next;
-        vector<int>mergedLL;
+        // vector<int>mergedLL;
+        ListNode* dummyNode = new ListNode(-1);
+        ListNode* curr = dummyNode;
         while(temp!=NULL){
             ListNode * end = temp;
             int sum=0;
@@ -41,17 +43,20 @@ ListNode* convert2LL(vector<int>& arr){
              temp=temp->next;
              end=temp;
             }
-            mergedLL.push_back(sum);
+            // mergedLL.push_back(sum);
+            ListNode * newnode = new ListNode(sum);
+            curr->next = newnode;
+            curr = newnode;
             temp=temp->next;
            
 
             
         }
 
-        head = convert2LL(mergedLL);
+        // head = convert2LL(mergedLL);
 
 
-        return head;
+        return dummyNode->next;
         
     }
 };
