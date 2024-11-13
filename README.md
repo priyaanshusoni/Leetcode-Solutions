@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
 | ------- |
