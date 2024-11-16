@@ -19,6 +19,7 @@ public:
 
             }
             longest = max(longest , cnt);
+            if(longest==s.length()) break;
             mpp.clear();
             // longest=max(cnt,longest);
           
