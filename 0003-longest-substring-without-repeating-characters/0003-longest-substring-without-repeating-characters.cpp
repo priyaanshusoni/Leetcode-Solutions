@@ -8,17 +8,17 @@ public:
         map<char , int>mpp;
 
         for(int i=0;i<s.length();i++){
-            string ans = "";
+            int cnt=0;
             for(int j=i;j<s.length();j++){
                 if(mpp.find(s[j])!=mpp.end()){
                   break;
                 }
-                ans+=s[j];
+                cnt++;
                 mpp[s[j]]=1;
                 
 
             }
-            longest = max(longest , (int)ans.length());
+            longest = max(longest , cnt);
             mpp.clear();
             // longest=max(cnt,longest);
           
