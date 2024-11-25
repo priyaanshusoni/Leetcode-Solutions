@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -313,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
