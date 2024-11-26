@@ -2,7 +2,7 @@ class Solution {
 public:
 
 
-void AllSubSequences(vector<int>&arr, vector<vector<int>>&ans , vector<int>temp , int index , int n){
+void AllSubSequences(vector<int>&arr, vector<vector<int>>&ans , vector<int>&temp , int index , int n){
 
 if(index==n){
     ans.push_back(temp);
@@ -12,6 +12,8 @@ if(index==n){
 AllSubSequences(arr , ans , temp , index+1 , n);
 temp.push_back(arr[index]);
 AllSubSequences(arr , ans , temp , index+1 , n);
+
+temp.pop_back();
 
 
 
