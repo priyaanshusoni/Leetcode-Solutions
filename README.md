@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0552-student-attendance-record-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
