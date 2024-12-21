@@ -1,34 +1,27 @@
 class Solution {
 public:
 
-
-void AllSubSequences(vector<int>&arr, vector<vector<int>>&ans , vector<int>&temp , int index , int n){
-
-if(index==n){
+void AllSubsequences(vector<vector<int>>&ans , vector<int>temp , vector<int>nums , int n , int index){
+if(index>=n){
     ans.push_back(temp);
     return;
 }
 
-AllSubSequences(arr , ans , temp , index+1 , n);
-temp.push_back(arr[index]);
-AllSubSequences(arr , ans , temp , index+1 , n);
-
-temp.pop_back();
-
-
-
+AllSubsequences(ans , temp , nums, n , index+1);
+temp.push_back(nums[index]);
+AllSubsequences(ans , temp , nums, n , index+1);
 
 
 }
+
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>>ans;
-        vector<int>temp;
+     vector<vector<int>>ans;
+     int n = nums.size();
 
-         AllSubSequences(nums,ans , temp , 0 , n);
+     vector<int>temp;
 
+     AllSubsequences(ans , temp ,nums, n , 0);
 
-         return ans;
- 
+     return ans;
     }
 };
