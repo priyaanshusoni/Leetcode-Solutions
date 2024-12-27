@@ -4,35 +4,27 @@
  */
 var makeGood = function(s) {
     s = s.split("")
-    let i =0;
-    let j=0;
-  while(i<s.length-1){
-
-      for(let j=i+1;j<s.length;j++){
-      if(s[i]!=s[j]){
-        let a = s[i].toLowerCase();
-        let b = s[j].toLowerCase();
+    let i=0;
+   while(i<s.length-1){
+     if(s[i]!=s[i+1]){
+        let a  = s[i].toLowerCase();
+        let b = s[i+1].toLowerCase();
 
         if(a==b){
             s.splice(i,2);
-            
             i=0;
-
-            break;
-
         }
+
         else{
-            i++;
-            break;
+           i++;
         }
-      }
-      else{
-        i++;
-        break;
-      }
-  }
-  }
+     }
 
+     else{
+        i++;
+     }
+   }
+  
 
   return s.join("");
 };
