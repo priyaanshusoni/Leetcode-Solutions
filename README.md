@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2358-number-of-ways-to-split-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Stack
 |  |
