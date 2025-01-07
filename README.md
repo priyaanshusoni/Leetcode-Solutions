@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1524-string-matching-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
+| [1524-string-matching-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1666-make-the-string-great](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Greedy
 |  |
 | ------- |
