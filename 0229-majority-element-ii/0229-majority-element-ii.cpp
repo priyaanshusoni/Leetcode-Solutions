@@ -7,11 +7,16 @@ public:
 
         for(auto it:nums){
             mpp[it]+=1;
+            if(mpp[it]> floor(nums.size()/3) ){
+                if(ans.size() && ans[0]==it){
+                      continue;
+                }
+              ans.push_back(it);
+            } 
+            if(ans.size()==2) break;
         }
 
-        for(auto it:mpp){
-            if(it.second > floor(nums.size()/3)) ans.push_back(it.first);
-        }
+      
 
 
         return ans;
