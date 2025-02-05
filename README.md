@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1666-make-the-string-great](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [1396-count-servers-that-communicate](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Bucket Sort
 |  |
 | ------- |
