@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
