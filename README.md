@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
