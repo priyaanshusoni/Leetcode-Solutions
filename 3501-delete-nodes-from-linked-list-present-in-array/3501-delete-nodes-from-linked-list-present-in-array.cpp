@@ -10,62 +10,45 @@
  */
 class Solution {
 public:
-
-
-
-
-ListNode* convert2LL(vector<int>&ans){
-
-
-    
-    ListNode* head = new ListNode(ans[0]);
-    ListNode* temp = head;
-
-    for(int i=1;i<ans.size();i++){
-        ListNode* newnode = new ListNode(ans[i]);
-        temp->next = newnode;
-        temp=newnode;
-    }
-
-
-    return head;
-}
-
-
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-       ListNode* temp = head;
-       vector<int>ans;
-       vector<int>LL;
-       set<int>st;
+  
+      set<int>st(nums.begin() , nums.end());
+
+      while(head!=NULL && st.count(head->val) > 0) {
+        ListNode* ntd = head;
+        head=head->next;
+     
+      }
 
 
-       for(int i=0;i<nums.size();i++){
-        st.insert(nums[i]);
-       }
 
 
-       while(temp!=NULL){
-       
-            LL.push_back(temp->val);
-            temp=temp->next;
+      ListNode* curr = head;
 
+
+      while(curr->next!=NULL ) {
+
+        if(st.count(curr->next->val)> 0) {
+
+            
+        ListNode * temp = curr->next;
+        curr->next = curr->next->next;
+
+        } else {
+            curr = curr->next;
         }
 
-        for(int i=0;i<LL.size();i++){
-            if(st.find(LL[i])==st.end()){
-                ans.push_back(LL[i]);
-            }
 
-            else{
-                continue;
-            }
-        }
+      }
 
 
-        ListNode* newHead = convert2LL(ans);
 
 
-        return newHead;
-       
+
+
+
+      return head;
+
+
     }
 };
