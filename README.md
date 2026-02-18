@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
