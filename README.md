@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
