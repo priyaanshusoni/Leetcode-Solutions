@@ -1,12 +1,20 @@
-class Solution(object):
-    def fib(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        if n==0 or n==1 :
-             return n
+class Solution:
+    def fib(self, n: int) -> int:
+        ans = []
+        
+        ans.append(0)
+        ans.append(1)
+        ans.append(1)
 
-
-        return self.fib(n-1) + self.fib(n-2)
+        first = ans[1]
+        second = ans[2]
+        for i in range(2,n):
+            third = first + second
+            ans.append(third)
+            first = second
+            second = third
+        print(ans)
+        return ans[n]
+   
+        
         
