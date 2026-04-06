@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
