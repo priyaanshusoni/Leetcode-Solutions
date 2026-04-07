@@ -7,7 +7,7 @@ public:
                        map<int , int>mpp;
 
                        vector<int>sorted = nums;
-                       vector<int>ans;
+                  
                        sort(sorted.begin() , sorted.end());
 
 
@@ -19,11 +19,11 @@ public:
                        
 
                        for(int i=0 ; i<nums.size();i++){
-                        ans.push_back(mpp[nums[i]]);
+                        nums[i] =  mpp[nums[i]];
                        }
 
 
-                       return ans;
+                       return nums;
 
 
 
