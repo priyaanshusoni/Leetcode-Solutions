@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-count-servers-that-communicate](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1470-shuffle-the-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
