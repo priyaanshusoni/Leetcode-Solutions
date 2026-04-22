@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Design
