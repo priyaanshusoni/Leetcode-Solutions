@@ -2,45 +2,38 @@ class Solution {
 public:
     bool checkRecord(string s) {
 
-        int cntL = 0;
+ 
         int cntA = 0;
-        int maxcntL = 0;
-        int i = 0;
+        int cntL = 0;
 
 
+        for (auto it : s) {
+            if ( it == 'A') {
+                cntL  = 0;
 
-        while(i<s.size()) {
+                cntA++;
 
-            if(s[i]=='A') {
-
-                 cntA++;
-                 i++;
+                if(cntA >= 2) return false;
 
             }
 
-           else if(s[i]=='L') {
+            else if (it == 'L') {
 
-                while(i<s.size() && s[i]=='L') {
-                    cntL++;
-                    i++;
-                }
+                cntL++;
 
-                maxcntL = max(cntL , maxcntL);
-                cntL=0;
+                if(cntL >= 3) return false;
+
             }
 
             else {
-                i++;
-            }
 
-        
+                cntL = 0;
+
+            }
         }
 
 
-
-           if(maxcntL < 3 && cntA < 2) return true;
- 
-        return false;
+        return true;
    
 
     }   
