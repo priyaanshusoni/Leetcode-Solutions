@@ -5,8 +5,6 @@ public:
         int cntL = 0;
         int cntA = 0;
         int maxcntL = 0;
-
-
         int i = 0;
 
 
@@ -18,15 +16,9 @@ public:
                  cntA++;
                  i++;
 
-
             }
 
-
            else if(s[i]=='L') {
-
-
-                
-
 
                 while(i<s.size() && s[i]=='L') {
                     cntL++;
@@ -37,52 +29,19 @@ public:
                 cntL=0;
             }
 
-
-
-
             else {
                 i++;
             }
 
-          
-        
-        
-        
-        
-        
-        
         
         }
 
 
 
-
-
-
-
            if(maxcntL < 3 && cntA < 2) return true;
  
-
-
-
-
         return false;
-
-
-
-
-
-     
-      
-
-
-        
-  
-
-
-
-       
-        
+   
 
     }   
     
