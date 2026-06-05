@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
