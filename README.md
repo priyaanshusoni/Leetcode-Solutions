@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
