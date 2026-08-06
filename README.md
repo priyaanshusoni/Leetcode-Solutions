@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
