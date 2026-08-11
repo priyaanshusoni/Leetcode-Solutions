@@ -5,20 +5,36 @@
  */
 var numSubarraysWithSum = function(nums, goal) {
 
+     
+     let map = {}
 
-    let number = 0
+     let sum = 0;
 
-    for(let i=0 ; i<nums.length ; i++){
-        let sum = 0;
-         for (let j = i ; j<nums.length; j++){
+     let cnt = 0;
 
-            sum +=nums[j];
-            if(sum=== goal) number++
-             
-         }
-    }
+     for(let i =0 ; i<nums.length ; i++) {
+
+        sum+=nums[i];
+
+        if(sum===goal) cnt++;
 
 
-    return number;
+        if(map[sum-goal]){
+            cnt+=map[sum-goal]
+        }
+
+
+
+
+        map[sum] = map[sum] ? map[sum]+=1 : 1
+        
+     }
+
+
+     return cnt;
+
+
+
+
     
 };
