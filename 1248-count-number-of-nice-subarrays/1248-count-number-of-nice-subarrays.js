@@ -5,36 +5,39 @@
  */
 var numberOfSubarrays = function(nums, k) {
 
-    let array = nums.map((num)=> num%2==0 ? 0 : 1)
+
+   let map = {}
+   let cnt = 0
+   let sum=0;
 
 
 
+   for(let i=0 ; i<nums.length;i++){
 
-    let sum = 0;
+    let number = nums[i]%2===0 ? 0 : 1
 
+    sum+=number;
 
-    let map = {};
-
-    let cnt = 0;
-
-
-    for(let i=0 ; i<array.length ; i++){
-        sum+=array[i];
-
-        if(sum===k) cnt++;
-
-        if(map[sum-k]){
-            cnt+=map[sum-k]
-        }
+    if(sum===k) cnt++;
 
 
-
-        
-        map[sum] = map[sum] ? map[sum]+=1 : 1
+    if(map[sum-k]){
+        cnt+=map[sum-k];
     }
 
+    
+    map[sum] = map[sum] ? map[sum]+=1 : 1
 
-    return cnt;
+
+
+    
+      
+   }
+        
+
+        return cnt;
+   
+
 
  
 };
