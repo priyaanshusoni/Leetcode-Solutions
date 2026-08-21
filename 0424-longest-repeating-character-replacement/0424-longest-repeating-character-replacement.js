@@ -26,7 +26,7 @@ var characterReplacement = function(s, k) {
 
 
         if(windowSize - maxFreq > k){
-            leftPointerChar = s[left]
+          let leftPointerChar = s[left]
 
 
             map[leftPointerChar] = map[leftPointerChar] - 1;
@@ -34,7 +34,7 @@ var characterReplacement = function(s, k) {
      
         }
 
-         ans = Math.max(ans , right - left + 1 )
+         ans = Math.max(ans , right - left + 1)
 
        
 
