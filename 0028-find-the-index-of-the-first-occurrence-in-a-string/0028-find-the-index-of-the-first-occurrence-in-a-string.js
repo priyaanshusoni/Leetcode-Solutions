@@ -5,52 +5,29 @@
  */
 var strStr = function (a, b) {
 
-    let left = 0;
-    let right = 0;
-
-    let index = -1;
-
-    let start = 0;
+    
+    
 
 
+    let ws = b.length;
 
-    while (left < a.length) {
-      
+    if(ws > a.length) return -1;
 
+    for(let i=0 ; i<a.length ; i++){
+        let str = a.slice(i , i+ws);
 
-        if (a[left] === b[right]) {
-            if(start===left) {
-                start = left;
-            }
-            left++;
-            right++;
-
-            if (right === b.length) {
-                index = start;
-                break;
-            }
-
-        }
-
-
-
-
-        else {
-            right = 0;
-            left = start+1
-            start = left
-        }
-
-
+        if(str===b) return i;
 
     }
+
+
+    return -1;
 
     
 
 
 
 
-        return index;
 
 
 
