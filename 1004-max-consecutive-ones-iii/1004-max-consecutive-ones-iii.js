@@ -6,34 +6,43 @@
 var longestOnes = function(nums, k) {
 
 
-      let left = 0;
-     
+    let noOfZeros = 0;
 
-      let noOfZeros = 0; 
+    let maxcnt =0;
 
+    let left = 0;
 
-      let maxcnt = 0
-
-
-      for(let right = 0 ; right < nums.length ; right++){
-
-         if(nums[right]===0) noOfZeros++;
-
-         while(noOfZeros > k) {
-                if(nums[left]===0) noOfZeros--;
-                left++;
-         }
+    let right = 0;
 
 
 
-         maxcnt = Math.max(maxcnt , right - left + 1 ) 
+    for(let right=0 ; right<nums.length ; right++){
+
+
+        let curr = nums[right];
+
+        if(curr===0 ) noOfZeros++;
+
+
+        while(noOfZeros>k){
+            let leftNumber = nums[left];
+            if(leftNumber===0) {
+                noOfZeros--;
+            }
+            left = left+1;
+        }
 
 
 
-      }
 
 
-      return maxcnt;
+        maxcnt = Math.max(right-left+1 , maxcnt)
+
+    }
+
+
+    return maxcnt;
+
 
 
     
