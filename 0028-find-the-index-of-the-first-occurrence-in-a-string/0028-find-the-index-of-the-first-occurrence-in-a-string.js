@@ -13,7 +13,7 @@ var strStr = function (a, b) {
 
     if(ws > a.length) return -1;
 
-    for(let i=0 ; i<a.length ; i++){
+    for(let i=0 ; i<=a.length-ws ; i++){
         let str = a.slice(i , i+ws);
 
         if(str===b) return i;
