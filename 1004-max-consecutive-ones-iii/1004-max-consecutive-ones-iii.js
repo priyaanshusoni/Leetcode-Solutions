@@ -19,17 +19,17 @@ var longestOnes = function(nums, k) {
     for(let right=0 ; right<nums.length ; right++){
 
 
-        let curr = nums[right];
+        
 
-        if(curr===0 ) noOfZeros++;
+        if(nums[right]===0 ) noOfZeros++;
 
 
         while(noOfZeros>k){
-            let leftNumber = nums[left];
-            if(leftNumber===0) {
+           
+            if(nums[left]===0) {
                 noOfZeros--;
             }
-            left = left+1;
+            left++;
         }
 
 
