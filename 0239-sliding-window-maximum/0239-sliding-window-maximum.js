@@ -13,7 +13,7 @@ var maxSlidingWindow = function (nums, k) {
 
     let ans = [];
 
-    for (let i = 0; i < k; i++) {
+    for (let i = 0; i < k; i++) { // O(K)
 
 
 
@@ -29,7 +29,7 @@ var maxSlidingWindow = function (nums, k) {
     }
 
 
-    for(let i=k; i<n;i++){
+    for(let i=k; i<n;i++){ // O(N-K)
 
         //put the first element at deque to ans 
         ans.push(nums[dq[0]])
@@ -37,7 +37,7 @@ var maxSlidingWindow = function (nums, k) {
 
         // remove the elemments which are out of the current window
 
-        while(dq.length &&  dq[0] <= i-k) {
+        if(dq.length &&  dq[0] <= i-k) { // this only run once becaue because window is sliding by 1 index at a time so we always remove one element in this while loop 
             dq.shift();
         }
 
