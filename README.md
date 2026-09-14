@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0086-partition-list) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
