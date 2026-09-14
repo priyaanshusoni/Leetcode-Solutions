@@ -35,14 +35,6 @@ var trap = function (height) {
     }
 
 
-    console.log(prefix)
-    console.log(suffix)
-
-
-
-
-
-
 
     for (let i = 0; i < n; i++) {
 
