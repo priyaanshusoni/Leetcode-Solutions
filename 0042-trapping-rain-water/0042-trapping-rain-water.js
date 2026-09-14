@@ -8,38 +8,43 @@ var trap = function (height) {
 
     let ans = 0;
 
+    let n = height.length
+
 
     let prefix = [];
 
     let suffix = [];
 
     let prefixMax = height[0];
-    prefix[0] = prefixMax;
-    let suffixMax = height[height.length - 1];
-    suffix[height.length - 1] = suffixMax
 
+    let suffixMax = height[n - 1];
 
+    let left = 0;
+    let right = n - 1;
 
-    for (let i = 1; i < height.length; i++) {
+    while (left < n && right >= 0) {
+        if (left > 0) prefixMax = Math.max(prefixMax, height[left]);
+        if (right < n - 1) suffixMax = Math.max(suffixMax, height[right]);
+        prefix[left] = prefixMax;
+        suffix[right] = suffixMax;
 
-        prefixMax = Math.max(prefixMax, height[i])
-        prefix[i] = prefixMax;
+        left++;
+        right--;
+
 
     }
 
 
-    for (let i = height.length - 2; i >= 0; i--) {
-
-        suffixMax = Math.max(suffixMax, height[i])
-        suffix[i] = suffixMax;
-
-    }
+    console.log(prefix)
+    console.log(suffix)
 
 
 
 
 
-    for (let i = 0; i < height.length; i++) {
+
+
+    for (let i = 0; i < n; i++) {
 
         let maxLeft = prefix[i];
         let maxRight = suffix[i]
