@@ -2,37 +2,46 @@
  * @param {number[]} fruits
  * @return {number}
  */
-var totalFruit = function(fruits) {
+var totalFruit = function (fruits) {
 
+    const map = new Map();
 
-    let map = {}
+    let n = fruits.length
 
-    let left =0;
+    let left = 0;
+
     let right = 0;
 
-    let maxcnt = 0
+    let max = 0;
 
-    for (let right=0 ; right < fruits.length ; right++) {
 
-        let type = fruits[right]
+    for (let right = 0; right < n; right++) {
 
-        map[type] = map[type] ? map[type]+=1 : 1
+        let fruitType = fruits[right];
 
-        while(Object.keys(map).length>2){
-            
-             
-             map[fruits[left]]-=1;
+        map.set(fruitType, (map.get(fruitType) || 0) + 1)
 
-             if(map[fruits[left]]===0) delete map[fruits[left]]
-             left++
+        while (map.size > 2) {
+            let leftFruitType = fruits[left]
+
+
+            map.set(leftFruitType, map.get(leftFruitType) - 1);
+            if (map.get(leftFruitType) === 0) map.delete(leftFruitType)
+
+            left++
+
         }
 
+        max = Math.max(max, right - left + 1)
 
 
-          maxcnt = Math.max(maxcnt , right - left + 1 )
+
+
+
+
     }
 
 
-    return maxcnt;
-    
+    return max;
+
 };
