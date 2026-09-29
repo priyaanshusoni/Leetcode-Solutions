@@ -1,35 +1,46 @@
-class Solution:
-    def totalFruit(self, fruits: List[int]) -> int:
+class Solution(object):
 
-         mp = {}
+    def atMostK(self, str , k):
+        mp = {}
 
-         left = 0
+        left = 0
 
-         maxcnt = 0
+        maxlen = 0
 
 
-         for right in range(len(fruits)):
-            fruit_type = fruits[right]
 
-            mp[fruit_type] = mp.get(fruit_type , 0) + 1
+        for right in range(len(str)):
 
-            while len(mp)>2:
-                removable_fruit_type = fruits[left]
-                mp[removable_fruit_type]-=1
-                if mp[removable_fruit_type] == 0:
-                     del mp[removable_fruit_type]
+         char = str[right]
+         mp[char] = mp.get(char , 0) + 1
+
+
+         while len(mp) > k:
+            leftChar = str[left]
+            mp[leftChar]-=1
+            if mp[leftChar]==0:
+                del mp[leftChar]
                 
-                left+=1
-                
-            
- 
+
+            left+=1
+
         
-
-            maxcnt = max(right - left + 1 , maxcnt)
-
+         maxlen = max(maxlen , right-left+1)
 
 
+    
+
+        return maxlen
 
 
-         return maxcnt
+
+
+
+    
+    
+    def totalFruit(self, fruits):
+        return self.atMostK(fruits , 2)
+        
+         
+        
         
