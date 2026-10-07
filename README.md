@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3541-report-spam-message) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
 ## Trie
 |  |
