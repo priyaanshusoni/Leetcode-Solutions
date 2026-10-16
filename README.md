@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3541-report-spam-message) |
 ## Array
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3541-report-spam-message) |
 ## Sorting
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2653-sliding-subarray-beauty) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Trie
 |  |
 | ------- |
