@@ -7,41 +7,35 @@ var minimumCardPickup = function (cards) {
 
 
 
-    let left = 0;
-    let right = 0;
+
+
 
     let map = {}
 
-    let mini = Infinity;
+    let miniDistance = Infinity;
 
 
-    for (right = 0; right < cards.length; right++) {
-        let ele = cards[right];
+    for (i = 0; i < cards.length; i++) {
+
+        let ele = cards[i];
 
 
 
-        map[ele] = map[ele] ? map[ele] += 1 : 1;
 
-        while (map[ele] === 2) {
+        if (map[ele] !== undefined) {
+            miniDistance = Math.min(miniDistance, i - map[ele] + 1)
 
-
-            mini = Math.min(mini, right - left + 1);
-
-
-            let leftEle = cards[left];
-            map[leftEle] -= 1;
-            if(map[leftEle]===0) delete map[leftEle]
-
-            left++;
 
 
         }
 
+        map[ele] = i;
+
     }
 
 
-    if (mini === Infinity) return -1;
+    if (miniDistance === Infinity) return -1;
 
-    return mini;
+    return miniDistance;
 
 };
