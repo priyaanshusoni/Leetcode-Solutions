@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3206-alternating-groups-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3206-alternating-groups-i) |
+| [3208-alternating-groups-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3541-report-spam-message) |
 ## Sorting
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3206-alternating-groups-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3206-alternating-groups-i) |
+| [3208-alternating-groups-ii](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3208-alternating-groups-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Trie
 |  |
