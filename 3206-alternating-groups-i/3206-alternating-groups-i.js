@@ -12,12 +12,13 @@ var numberOfAlternatingGroups = function (colors) {
 
     for (let i = 0; i < n; i++) {
 
+        let curr = colors[i]
         let prev = colors[(i - 1 + n) % n]
 
         let next = colors[(i + 1) % n]
 
 
-        if (prev !== colors[i] && next !== colors[i]) cnt++;
+        if (prev !== curr && next !== curr) cnt++;
 
 
 
