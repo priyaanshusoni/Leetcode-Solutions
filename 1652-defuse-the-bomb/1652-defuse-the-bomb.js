@@ -62,7 +62,7 @@ var decrypt = function (code, k) {
         ans.push(currSum)
 
         start = (start + 1) % n;
-        end = (end + 1) % n;
+        end = (end + 1)%n;
 
     }
 
