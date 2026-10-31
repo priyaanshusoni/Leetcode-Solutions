@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
+| [1652-defuse-the-bomb](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/priyaanshusoni/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
