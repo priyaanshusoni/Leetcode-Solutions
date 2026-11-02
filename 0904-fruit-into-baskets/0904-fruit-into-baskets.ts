@@ -22,7 +22,7 @@ function totalFruit(fruits: number[]): number {
         map[fruit] = map[fruit] ? map[fruit] += 1 : 1;
 
 
-        while (Object.keys(map).length > 2) {
+        if (Object.keys(map).length > 2) {
             let leftFruit = fruits[left];
             map[leftFruit] -= 1;
             if (map[leftFruit] === 0) delete map[leftFruit];
@@ -30,11 +30,17 @@ function totalFruit(fruits: number[]): number {
             left++;
         }
 
+        if (Object.keys(map).length <= 2) {
+
+            max = Math.max(right - left + 1, max)
+
+        }
 
 
 
 
-        max = Math.max(right - left + 1, max)
+
+
 
     }
 
