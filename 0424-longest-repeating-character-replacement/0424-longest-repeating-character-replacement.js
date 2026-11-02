@@ -30,7 +30,7 @@ var characterReplacement = function (s, k) {
 
 
 
-        while ((right - left + 1) - maxFreq > k) {
+        if ((right - left + 1) - maxFreq > k) {
             let leftChar = s[left];
             map[leftChar] -= 1;
             if (map[leftChar] === 0) delete map[leftChar]
